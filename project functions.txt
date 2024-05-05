@@ -1,0 +1,18 @@
+supershop management system:
+
+Functions used:
+	Regestration
+	Login
+ 	Show Details
+	User Instructions
+ 	Product Entry
+	Product List
+	Sell Products
+	Account
+	Transaction History
+	Logout
+	Exit
+
+Date last modified: 25.12.18 
+Modified by: Jubayer Islam (NSU)
+note:input name,email,password to login at once. tschüs!
